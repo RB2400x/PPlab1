@@ -1,0 +1,5 @@
+<appointments>
+  <appointment id="42" patientId="56" doctorId="45" status="asd">
+    <date day="4" month="3" year="2101" />
+  </appointment>
+</appointments>
