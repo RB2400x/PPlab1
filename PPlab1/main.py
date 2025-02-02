@@ -1,4 +1,4 @@
-from commands import *#(удалить) импорт функции, принимающей команды пользователя
+from commands import *
 c=''
 p=Patient()
 d=Doctor()
